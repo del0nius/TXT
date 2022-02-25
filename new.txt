@@ -1,0 +1,4 @@
+   FullName: Daniil Pavlovich Gaponenko
+   Age: 27
+   Number of pets: 1
+   Desired salary: 650$
